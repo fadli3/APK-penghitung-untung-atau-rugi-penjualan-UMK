@@ -1,0 +1,1 @@
+Aplikasi penghitung jualan ini di rancang semudah mungkin untuk dimengerti oleh masyarakat kalangan menengah kebawah, bagi siapapun yang berpartisipasi ingin berkontribusi dalam menyempurnakan aplikasi ini, silahkan melakukan korespondensi melali email:zulfadlia0@gmail.com
